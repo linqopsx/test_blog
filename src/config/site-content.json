@@ -19,8 +19,13 @@
 		"#8fdbe9",
 		"#fffef8"
 	],
-	"artImages": [],
-	"currentArtImageId": "",
+	"artImages": [
+		{
+			"id": "037ed6427e39c6dd",
+			"url": "/images/art/037ed6427e39c6dd.jpeg"
+		}
+	],
+	"currentArtImageId": "037ed6427e39c6dd",
 	"backgroundImages": [
 		{
 			"id": "",
