@@ -1,8 +1,8 @@
 {
 	"meta": {
-		"title": "最懒惰之人",
-		"description": "我是最懒惰之人, bro",
-		"username": "17hwliao"
+		"title": "没事",
+		"description": "无",
+		"username": "Theodore"
 	},
 	"theme": {
 		"colorBrand": "#2fcbe7",
@@ -21,11 +21,11 @@
 	],
 	"artImages": [
 		{
-			"id": "037ed6427e39c6dd",
-			"url": "/images/art/037ed6427e39c6dd.jpeg"
+			"id": "f40c8db8959a8ddb",
+			"url": "/images/art/f40c8db8959a8ddb.webp"
 		}
 	],
-	"currentArtImageId": "037ed6427e39c6dd",
+	"currentArtImageId": "f40c8db8959a8ddb",
 	"backgroundImages": [
 		{
 			"id": "",
